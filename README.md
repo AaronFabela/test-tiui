@@ -34,7 +34,9 @@ La ruta [http://localhost:4000/api/entidad/](http://localhost:4000/api/entidad/)
 
 La ruta [http://localhost:4000/api/entidad/:entidadId](http://localhost:4000/api/entidad/:entidadId) llevará el parámetro **entidadId** que nos permitirá buscar una entidad en específico.
 
-**NOTA: En los siguientes endpoints, debemos enviar el token que generamos con la ruta /api/entidad/jwt para poder acceder a estos. Cuando tengamos el token generado, lo debemos enviar como un header con el nombre/key `x-access-token` y poniendo el token generado como el valor. De igual manera, se recomienda que se envíe otro header con el key `Content-Type` y el valor `application/json`**
+**NOTA: En los siguientes endpoints, debemos enviar el token que generamos con la ruta /api/entidad/jwt para poder acceder a estos. Cuando tengamos el token generado, lo debemos enviar como un header con el nombre/key `x-access-token` y poniendo el token generado como el valor. De igual manera, se recomienda que se envíe otro header con el key `Content-Type` y el valor `application/json`. En la siguiente imagen, se mostrará un ejemplo utilizando un cliente HTTP como lo es PostMan**
+
+![Image text](https://github.com/AaronFabela/test-tiui/blob/master/src/img/postHeaders.png)
 
 ### POST
 
