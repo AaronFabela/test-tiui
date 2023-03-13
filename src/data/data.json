@@ -1,0 +1,32 @@
+[
+ {
+   "id":1,
+   "nombre":"Aaron Fabela",
+   "descripcion":"FrontEnd Jr",
+   "fechaDeCreacion":"08/11/2022"
+ },
+ {
+   "id":2,
+   "nombre":"Israel Jaime",
+   "descripcion":"Data Jr",
+   "fechaDeCreacion":"13/06/2022"
+ },
+ {
+   "id":3,
+   "nombre":"Osvaldo Chavez",
+   "descripcion":"BackEnd Jr",
+   "fechaDeCreacion":"04/10/2022"
+ },
+ {
+   "id":4,
+   "nombre":"Cassandra Santiago",
+   "descripcion":"HR Jr",
+   "fechaDeCreacion":"11/12/2022"
+ },
+ {
+   "id":5,
+   "nombre":"Fernanda Diaz",
+   "descripcion":"Talent Jr",
+   "fechaDeCreacion":"03/05/2022"
+ }
+]
